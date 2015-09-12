@@ -1,0 +1,18 @@
+{
+    questions: [
+        { text: "Quien mato a Nisman?" },
+        { text: "Que es ese olor?"     },
+    ],
+    answers: [
+        "El ex presidente Carlos Saul Menem",
+        "Nestor Kirchner",
+        "Anibal Fernandez",
+        "El Atentado del AMIA",
+        "Nazis en la Patagonia",
+        "Peron",
+        "Evita",
+    ],
+    meta: {
+        name: "Argentina Against Humanity",
+    },
+}
